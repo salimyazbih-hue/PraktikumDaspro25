@@ -30,6 +30,7 @@ public class StudiKasus125 {
         } else {
             kurang = total_bayar - uang_bayar;
             System.out.println("Uang yang dibayar kurang: " + kurang);
+      
         }
     }
 }
